@@ -1,6 +1,7 @@
 This web application allows users to view and order different types of dogs for sale. It fetches data from a local server, displaying dog profiles including breed, image, gender, age, and cost. Users can place orders for their preferred dogs.
 
-Features
+*****
+    Features
 Fetches dog profiles from a local server using the Fetch API.
 Displays dog profiles in a card format.
 Provides information about breed, image, gender, age, and cost for each dog.
