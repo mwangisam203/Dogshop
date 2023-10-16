@@ -1,0 +1,84 @@
+{
+    "dogProfiles": [
+        {
+            "id": 1,
+            "breed": "Golden Retriever",
+            "cost": "$1,000",
+            "age": 2,
+            "gender": "Male",
+            "image": "https://i.pinimg.com/564x/a5/4b/3c/a54b3c07fab9fe37e0b236163188a3ba.jpg"
+        },
+        {
+            "id": 2,
+            "breed": "Labrador Retriever",
+            "cost": "$900",
+            "age": 3,
+            "gender": "Female",
+            "image": "https://i.pinimg.com/564x/db/4e/26/db4e262aa5edeed45a33b6683df797b0.jpg"
+        },
+        {
+            "id": 3,
+            "breed": "German Shepherd",
+            "cost": "$1,200",
+            "age": 4,
+            "gender": "Male",
+            "image": "https://i.pinimg.com/564x/2b/5b/19/2b5b195c1fe9d41c047c32cb5bd5f859.jpg"
+        },
+        {
+            "id": 4,
+            "breed": "Bulldog",
+            "cost": "$800",
+            "age": 2,
+            "gender": "Female",
+            "image": "https://i.pinimg.com/564x/b0/a2/ff/b0a2ff135ff7949bd83a1731ee38e522.jpg"
+        },
+        {
+            "id": 5,
+            "breed": "Poodle",
+            "cost": "$1,100",
+            "age": 5,
+            "gender": "Male",
+            "image": "https://i.pinimg.com/564x/0c/7f/01/0c7f01243c0e71b8f4b622beb588cc48.jpg"
+        },
+        {
+            "id": 6,
+            "breed": "Siberian Husky",
+            "cost": "$1,300",
+            "age": 3,
+            "gender": "Female",
+            "image": "https://i.pinimg.com/564x/ce/11/c7/ce11c75f099b2c2d0af0b9f26135935c.jpg"
+        },
+        {
+            "id": 7,
+            "breed": "Dachshund",
+            "cost": "$750",
+            "age": 2,
+            "gender": "Male",
+            "image": "https://i.pinimg.com/564x/b1/f9/18/b1f918c2e2e73cd1b1e8dd6b79983558.jpg"
+        },
+        {
+            "id": 8,
+            "breed": "Beagle",
+            "cost": "$950",
+            "age": 4,
+            "gender": "Female",
+            "image": "https://i.pinimg.com/564x/c8/88/2a/c8882a9b8ee4b15df18ddad8fcc9783d.jpg"
+        },
+        {
+            "id": 9,
+            "breed": "Boxer",
+            "cost": "$1,100",
+            "age": 3,
+            "gender": "Male",
+            "image": "https://i.pinimg.com/564x/5d/7d/f3/5d7df350267950337d217a583bb724b0.jpg"
+        },
+        {
+            "id": 10,
+            "breed": "Yorkshire Terrier",
+            "cost": "$1,250",
+            "age": 2,
+            "gender": "Female",
+            "image": "https://i.pinimg.com/564x/3b/28/fc/3b28fc20243f1db8bd194eafdf51f668.jpg"
+        }
+    ]
+}
